@@ -1,0 +1,4 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+AOUT24DIM,0,0,0,0,0,0,1,20240824,20241025
+AOUT24SAM,0,0,0,0,0,1,0,20240824,20241025
+AOUT24SEM,1,1,1,1,1,0,0,20240824,20241025

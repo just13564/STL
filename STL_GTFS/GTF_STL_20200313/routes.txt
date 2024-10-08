@@ -1,0 +1,327 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_headsign,route_color,route_text_color
+AOUT1912E,STL,12,Direction Pont-Viau,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=12E,Pont-Viau,151f6d,FFFFFF
+AOUT1912O,STL,12,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=12O,Cartier,151f6d,FFFFFF
+AOUT19144E,STL,144,Direction Métro Côte-Vertu,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=144E,Cote-Vertu,151f6d,FFFFFF
+AOUT19144O,STL,144,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=144O,SteDorothée,151f6d,FFFFFF
+AOUT19151N,STL,151,Direction Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=151N,Ste-Rose,151f6d,FFFFFF
+AOUT19151S,STL,151,Direction Métro Côte-Vertu,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=151S,Cote-Vertu,151f6d,FFFFFF
+AOUT1917N,STL,17,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=17N,Auteuil,151f6d,FFFFFF
+AOUT1917S,STL,17,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=17S,Cartier,151f6d,FFFFFF
+AOUT1920E,STL,20,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=20E,Cartier,151f6d,FFFFFF
+AOUT1920O,STL,20,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=20O,Chomedey,151f6d,FFFFFF
+AOUT19222E,STL,222,Direction Saint-Vincent-De-Paul,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=222E,St-Vct-Paul,151f6d,FFFFFF
+AOUT19222O,STL,222,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=222O,Cartier,151f6d,FFFFFF
+AOUT1922E,STL,22,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=22E,St-Francois,151f6d,FFFFFF
+AOUT1922O,STL,22,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=22O,Cartier,151f6d,FFFFFF
+AOUT1924E,STL,24,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=24E,Cartier,151f6d,FFFFFF
+AOUT1924O,STL,24,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=24O,SteDorothée,151f6d,FFFFFF
+AOUT19252E,STL,252,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=252E,St-Francois,151f6d,FFFFFF
+AOUT19252O,STL,252,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=252O,H-Bourassa,151f6d,FFFFFF
+AOUT1926E,STL,26,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=26E,Montmorency,151f6d,FFFFFF
+AOUT1926O,STL,26,Direction Gare Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=26O,SteDorothée,151f6d,FFFFFF
+AOUT1927N,STL,27,Direction Gare Vimont,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=27N,Gare Vimont,151f6d,FFFFFF
+AOUT1927S,STL,27,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=27S,Cartier,151f6d,FFFFFF
+AOUT192E,STL,2,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=2E,H-Bourassa,151f6d,FFFFFF
+AOUT192O,STL,2,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=2O,Montmorency,151f6d,FFFFFF
+AOUT19313N,STL,313,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=313N,Chomedey,151f6d,FFFFFF
+AOUT19313S,STL,313,Direction Métro Côte-Vertu,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=313S,Cote-Vertu,151f6d,FFFFFF
+AOUT1931N,STL,31,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=31N,Auteuil,151f6d,FFFFFF
+AOUT1931S,STL,31,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=31S,H-Bourassa,151f6d,FFFFFF
+AOUT1933N,STL,33,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=33N,Montmorency,151f6d,FFFFFF
+AOUT1933S,STL,33,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=33S,Cartier,151f6d,FFFFFF
+AOUT19360N,STL,360,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=360N,Chomedey,151f6d,FFFFFF
+AOUT1936E,STL,36,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=36E,Montmorency,151f6d,FFFFFF
+AOUT1936O,STL,36,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=36O,Chomedey,151f6d,FFFFFF
+AOUT1937N,STL,37,Direction Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=37N,Ste-Rose,151f6d,FFFFFF
+AOUT1937S,STL,37,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=37S,Cartier,151f6d,FFFFFF
+AOUT1939N,STL,39,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=39N,Auteuil,151f6d,FFFFFF
+AOUT1939S,STL,39,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=39S,Carrefour,151f6d,FFFFFF
+AOUT19402E,STL,402,Direction Fabreville,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=402E,Fabreville,151f6d,FFFFFF
+AOUT19402O,STL,402,Direction Gare Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=402O,SteDorothée,151f6d,FFFFFF
+AOUT19404E,STL,404,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=404E,SteDorothée,151f6d,FFFFFF
+AOUT1940E,STL,40,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=40E,Montmorency,151f6d,FFFFFF
+AOUT1940O,STL,40,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=40O,Chomedey,151f6d,FFFFFF
+AOUT1941N,STL,41,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=41N,Auteuil,151f6d,FFFFFF
+AOUT1941S,STL,41,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=41S,Cartier,151f6d,FFFFFF
+AOUT1942E,STL,42,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=42E,St-Francois,151f6d,FFFFFF
+AOUT1942O,STL,42,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=42O,Carrefour,151f6d,FFFFFF
+AOUT1943N,STL,43,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=43N,Auteuil,151f6d,FFFFFF
+AOUT1943S,STL,43,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=43S,Cartier,151f6d,FFFFFF
+AOUT1945N,STL,45,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=45N,Auteuil,151f6d,FFFFFF
+AOUT1945S,STL,45,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=45S,Montmorency,151f6d,FFFFFF
+AOUT1946N,STL,46,Direction Laval-Ouest,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=46N,Laval-Ouest,151f6d,FFFFFF
+AOUT1946S,STL,46,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=46S,Montmorency,151f6d,FFFFFF
+AOUT1948E,STL,48,Direction Duvernay,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=48E,Duvernay,151f6d,FFFFFF
+AOUT1948O,STL,48,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=48O,Cartier,151f6d,FFFFFF
+AOUT1950E,STL,50,Direction Saint-Vincent-De-Paul,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=50E,St-Vct-Paul,151f6d,FFFFFF
+AOUT1950O,STL,50,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=50O,Carrefour,151f6d,FFFFFF
+AOUT1952E,STL,52,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=52E,St-Francois,151f6d,FFFFFF
+AOUT1952O,STL,52,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=52O,H-Bourassa,151f6d,FFFFFF
+AOUT1955N,STL,55,Direction Laval-Ouest,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=55N,Laval-Ouest,151f6d,FFFFFF
+AOUT1955S,STL,55,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=55S,H-Bourassa,151f6d,FFFFFF
+AOUT1956E,STL,56,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=56E,Montmorency,151f6d,FFFFFF
+AOUT1956O,STL,56,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=56O,SteDorothée,151f6d,FFFFFF
+AOUT1958E,STL,58,Direction Saint-Vincent-De-Paul,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=58E,St-Vct-Paul,151f6d,FFFFFF
+AOUT1958O,STL,58,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=58O,Cartier,151f6d,FFFFFF
+AOUT1960E,STL,60,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=60E,Cartier,151f6d,FFFFFF
+AOUT1960O,STL,60,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=60O,Chomedey,151f6d,FFFFFF
+AOUT1961N,STL,61,Direction Fabreville,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=61N,Fabreville,151f6d,FFFFFF
+AOUT1961S,STL,61,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=61S,Montmorency,151f6d,FFFFFF
+AOUT1963N,STL,63,Direction Gare Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=63N,Ste-Rose,151f6d,FFFFFF
+AOUT1963S,STL,63,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=63S,Cartier,151f6d,FFFFFF
+AOUT1965N,STL,65,Direction Gare Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=65N,Ste-Rose,151f6d,FFFFFF
+AOUT1965S,STL,65,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=65S,Montmorency,151f6d,FFFFFF
+AOUT1966E,STL,66,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=66E,Carrefour,151f6d,FFFFFF
+AOUT1966O,STL,66,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=66O,SteDorothée,151f6d,FFFFFF
+AOUT1970E,STL,70,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=70E,Cartier,151f6d,FFFFFF
+AOUT1970O,STL,70,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=70O,Montmorency,151f6d,FFFFFF
+AOUT1973N,STL,73,Direction Fabreville,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=73N,Fabreville,151f6d,FFFFFF
+AOUT1973S,STL,73,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=73S,Cartier,151f6d,FFFFFF
+AOUT1974E,STL,74,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=74E,St-Francois,151f6d,FFFFFF
+AOUT1974O,STL,74,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=74O,Cartier,151f6d,FFFFFF
+AOUT1976E,STL,76,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=76E,Montmorency,151f6d,FFFFFF
+AOUT1976O,STL,76,Direction Gare Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=76O,SteDorothée,151f6d,FFFFFF
+AOUT19901N,STL,901,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=901N,St-Francois,151f6d,FFFFFF
+AOUT19901S,STL,901,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=901S,Cartier,151f6d,FFFFFF
+AOUT19902N,STL,902,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=902N,Carrefour,151f6d,FFFFFF
+AOUT19902S,STL,902,Direction Métro Côte-Vertu,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=902S,Cote-Vertu,151f6d,FFFFFF
+AOUT19903N,STL,903,Direction Gare Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=903N,SteDorothée,151f6d,FFFFFF
+AOUT19903S,STL,903,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=903S,Montmorency,151f6d,FFFFFF
+AOUT19925N,STL,925,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=925N,St-Francois,151f6d,FFFFFF
+AOUT19925S,STL,925,Direction Métro Radisson,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=925S,Radisson,151f6d,FFFFFF
+AOUT19942E,STL,942,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=942E,St-Francois,151f6d,FFFFFF
+AOUT19942O,STL,942,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=942O,Montmorency,151f6d,FFFFFF
+JANV2012E,STL,12,Direction Pont-Viau,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=12E,Pont-Viau,151f6d,FFFFFF
+JANV2012O,STL,12,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=12O,Cartier,151f6d,FFFFFF
+JANV20144E,STL,144,Direction Métro Côte-Vertu,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=144E,Cote-Vertu,151f6d,FFFFFF
+JANV20144O,STL,144,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=144O,SteDorothée,151f6d,FFFFFF
+JANV20151N,STL,151,Direction Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=151N,Ste-Rose,151f6d,FFFFFF
+JANV20151S,STL,151,Direction Métro Côte-Vertu,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=151S,Cote-Vertu,151f6d,FFFFFF
+JANV2017N,STL,17,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=17N,Auteuil,151f6d,FFFFFF
+JANV2017S,STL,17,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=17S,Cartier,151f6d,FFFFFF
+JANV2020E,STL,20,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=20E,Cartier,151f6d,FFFFFF
+JANV2020O,STL,20,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=20O,Chomedey,151f6d,FFFFFF
+JANV20222E,STL,222,Direction Saint-Vincent-De-Paul,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=222E,St-Vct-Paul,151f6d,FFFFFF
+JANV20222O,STL,222,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=222O,Cartier,151f6d,FFFFFF
+JANV2022E,STL,22,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=22E,St-Francois,151f6d,FFFFFF
+JANV2022O,STL,22,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=22O,Cartier,151f6d,FFFFFF
+JANV2024E,STL,24,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=24E,Cartier,151f6d,FFFFFF
+JANV2024O,STL,24,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=24O,SteDorothée,151f6d,FFFFFF
+JANV20252E,STL,252,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=252E,St-Francois,151f6d,FFFFFF
+JANV20252O,STL,252,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=252O,H-Bourassa,151f6d,FFFFFF
+JANV2026E,STL,26,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=26E,Montmorency,151f6d,FFFFFF
+JANV2026O,STL,26,Direction Gare Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=26O,SteDorothée,151f6d,FFFFFF
+JANV2027N,STL,27,Direction Gare Vimont,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=27N,Gare Vimont,151f6d,FFFFFF
+JANV2027S,STL,27,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=27S,Cartier,151f6d,FFFFFF
+JANV202E,STL,2,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=2E,H-Bourassa,151f6d,FFFFFF
+JANV202O,STL,2,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=2O,Montmorency,151f6d,FFFFFF
+JANV20313N,STL,313,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=313N,Chomedey,151f6d,FFFFFF
+JANV20313S,STL,313,Direction Métro Côte-Vertu,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=313S,Cote-Vertu,151f6d,FFFFFF
+JANV2031N,STL,31,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=31N,Auteuil,151f6d,FFFFFF
+JANV2031S,STL,31,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=31S,H-Bourassa,151f6d,FFFFFF
+JANV2033N,STL,33,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=33N,Montmorency,151f6d,FFFFFF
+JANV2033S,STL,33,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=33S,Cartier,151f6d,FFFFFF
+JANV20360N,STL,360,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=360N,Chomedey,151f6d,FFFFFF
+JANV2036E,STL,36,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=36E,Montmorency,151f6d,FFFFFF
+JANV2036O,STL,36,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=36O,Chomedey,151f6d,FFFFFF
+JANV2037N,STL,37,Direction Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=37N,Ste-Rose,151f6d,FFFFFF
+JANV2037S,STL,37,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=37S,Cartier,151f6d,FFFFFF
+JANV2039N,STL,39,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=39N,Auteuil,151f6d,FFFFFF
+JANV2039S,STL,39,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=39S,Carrefour,151f6d,FFFFFF
+JANV20402E,STL,402,Direction Fabreville,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=402E,Fabreville,151f6d,FFFFFF
+JANV20402O,STL,402,Direction Gare Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=402O,SteDorothée,151f6d,FFFFFF
+JANV20404E,STL,404,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=404E,SteDorothée,151f6d,FFFFFF
+JANV2040E,STL,40,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=40E,Montmorency,151f6d,FFFFFF
+JANV2040O,STL,40,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=40O,Chomedey,151f6d,FFFFFF
+JANV2041N,STL,41,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=41N,Auteuil,151f6d,FFFFFF
+JANV2041S,STL,41,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=41S,Cartier,151f6d,FFFFFF
+JANV2042E,STL,42,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=42E,St-Francois,151f6d,FFFFFF
+JANV2042O,STL,42,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=42O,Carrefour,151f6d,FFFFFF
+JANV2043N,STL,43,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=43N,Auteuil,151f6d,FFFFFF
+JANV2043S,STL,43,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=43S,Cartier,151f6d,FFFFFF
+JANV2045N,STL,45,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=45N,Auteuil,151f6d,FFFFFF
+JANV2045S,STL,45,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=45S,Montmorency,151f6d,FFFFFF
+JANV2046N,STL,46,Direction Laval-Ouest,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=46N,Laval-Ouest,151f6d,FFFFFF
+JANV2046S,STL,46,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=46S,Montmorency,151f6d,FFFFFF
+JANV2048E,STL,48,Direction Duvernay,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=48E,Duvernay,151f6d,FFFFFF
+JANV2048O,STL,48,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=48O,Cartier,151f6d,FFFFFF
+JANV2050E,STL,50,Direction Saint-Vincent-De-Paul,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=50E,St-Vct-Paul,151f6d,FFFFFF
+JANV2050O,STL,50,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=50O,Carrefour,151f6d,FFFFFF
+JANV2052E,STL,52,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=52E,St-Francois,151f6d,FFFFFF
+JANV2052O,STL,52,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=52O,H-Bourassa,151f6d,FFFFFF
+JANV2055N,STL,55,Direction Laval-Ouest,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=55N,Laval-Ouest,151f6d,FFFFFF
+JANV2055S,STL,55,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=55S,H-Bourassa,151f6d,FFFFFF
+JANV2056E,STL,56,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=56E,Montmorency,151f6d,FFFFFF
+JANV2056O,STL,56,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=56O,SteDorothée,151f6d,FFFFFF
+JANV2058E,STL,58,Direction Saint-Vincent-De-Paul,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=58E,St-Vct-Paul,151f6d,FFFFFF
+JANV2058O,STL,58,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=58O,Cartier,151f6d,FFFFFF
+JANV2060E,STL,60,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=60E,Cartier,151f6d,FFFFFF
+JANV2060O,STL,60,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=60O,Chomedey,151f6d,FFFFFF
+JANV2061N,STL,61,Direction Fabreville,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=61N,Fabreville,151f6d,FFFFFF
+JANV2061S,STL,61,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=61S,Montmorency,151f6d,FFFFFF
+JANV2063N,STL,63,Direction Gare Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=63N,Ste-Rose,151f6d,FFFFFF
+JANV2063S,STL,63,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=63S,Cartier,151f6d,FFFFFF
+JANV2065N,STL,65,Direction Gare Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=65N,Ste-Rose,151f6d,FFFFFF
+JANV2065S,STL,65,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=65S,Montmorency,151f6d,FFFFFF
+JANV2066E,STL,66,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=66E,Carrefour,151f6d,FFFFFF
+JANV2066O,STL,66,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=66O,SteDorothée,151f6d,FFFFFF
+JANV2070E,STL,70,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=70E,Cartier,151f6d,FFFFFF
+JANV2070O,STL,70,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=70O,Montmorency,151f6d,FFFFFF
+JANV2073N,STL,73,Direction Fabreville,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=73N,Fabreville,151f6d,FFFFFF
+JANV2073S,STL,73,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=73S,Cartier,151f6d,FFFFFF
+JANV2074E,STL,74,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=74E,St-Francois,151f6d,FFFFFF
+JANV2074O,STL,74,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=74O,Cartier,151f6d,FFFFFF
+JANV2076E,STL,76,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=76E,Montmorency,151f6d,FFFFFF
+JANV2076O,STL,76,Direction Gare Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=76O,SteDorothée,151f6d,FFFFFF
+JANV20901N,STL,901,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=901N,St-Francois,151f6d,FFFFFF
+JANV20901S,STL,901,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=901S,Cartier,151f6d,FFFFFF
+JANV20902N,STL,902,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=902N,Carrefour,151f6d,FFFFFF
+JANV20902S,STL,902,Direction Métro Côte-Vertu,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=902S,Cote-Vertu,151f6d,FFFFFF
+JANV20903N,STL,903,Direction Gare Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=903N,SteDorothée,151f6d,FFFFFF
+JANV20903S,STL,903,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=903S,Montmorency,151f6d,FFFFFF
+JANV20925N,STL,925,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=925N,St-Francois,151f6d,FFFFFF
+JANV20925S,STL,925,Direction Métro Radisson,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=925S,Radisson,151f6d,FFFFFF
+JANV20942E,STL,942,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=942E,St-Francois,151f6d,FFFFFF
+JANV20942O,STL,942,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=942O,Montmorency,151f6d,FFFFFF
+JRAN2012E,STL,12,Direction Pont-Viau,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=12E,Pont-Viau,151f6d,FFFFFF
+JRAN2012O,STL,12,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=12O,Cartier,151f6d,FFFFFF
+JRAN20144E,STL,144,Direction Métro Côte-Vertu,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=144E,Cote-Vertu,151f6d,FFFFFF
+JRAN20144O,STL,144,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=144O,SteDorothée,151f6d,FFFFFF
+JRAN20151N,STL,151,Direction Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=151N,Ste-Rose,151f6d,FFFFFF
+JRAN20151S,STL,151,Direction Métro Côte-Vertu,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=151S,Cote-Vertu,151f6d,FFFFFF
+JRAN2017N,STL,17,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=17N,Auteuil,151f6d,FFFFFF
+JRAN2017S,STL,17,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=17S,Cartier,151f6d,FFFFFF
+JRAN2020E,STL,20,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=20E,Cartier,151f6d,FFFFFF
+JRAN2020O,STL,20,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=20O,Chomedey,151f6d,FFFFFF
+JRAN20222E,STL,222,Direction Saint-Vincent-De-Paul,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=222E,St-Vct-Paul,151f6d,FFFFFF
+JRAN20222O,STL,222,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=222O,Cartier,151f6d,FFFFFF
+JRAN2022E,STL,22,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=22E,St-Francois,151f6d,FFFFFF
+JRAN2022O,STL,22,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=22O,Cartier,151f6d,FFFFFF
+JRAN2024E,STL,24,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=24E,Cartier,151f6d,FFFFFF
+JRAN2024O,STL,24,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=24O,SteDorothée,151f6d,FFFFFF
+JRAN2026E,STL,26,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=26E,Montmorency,151f6d,FFFFFF
+JRAN2026O,STL,26,Direction Gare Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=26O,SteDorothée,151f6d,FFFFFF
+JRAN2027N,STL,27,Direction Gare Vimont,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=27N,Gare Vimont,151f6d,FFFFFF
+JRAN2027S,STL,27,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=27S,Cartier,151f6d,FFFFFF
+JRAN2031N,STL,31,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=31N,Auteuil,151f6d,FFFFFF
+JRAN2031S,STL,31,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=31S,H-Bourassa,151f6d,FFFFFF
+JRAN2033N,STL,33,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=33N,Montmorency,151f6d,FFFFFF
+JRAN2033S,STL,33,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=33S,Cartier,151f6d,FFFFFF
+JRAN20360N,STL,360,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=360N,Chomedey,151f6d,FFFFFF
+JRAN2037N,STL,37,Direction Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=37N,Ste-Rose,151f6d,FFFFFF
+JRAN2037S,STL,37,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=37S,Cartier,151f6d,FFFFFF
+JRAN2039N,STL,39,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=39N,Auteuil,151f6d,FFFFFF
+JRAN2039S,STL,39,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=39S,Carrefour,151f6d,FFFFFF
+JRAN2040E,STL,40,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=40E,Montmorency,151f6d,FFFFFF
+JRAN2040O,STL,40,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=40O,Chomedey,151f6d,FFFFFF
+JRAN2042E,STL,42,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=42E,St-Francois,151f6d,FFFFFF
+JRAN2042O,STL,42,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=42O,Carrefour,151f6d,FFFFFF
+JRAN2043N,STL,43,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=43N,Auteuil,151f6d,FFFFFF
+JRAN2043S,STL,43,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=43S,Cartier,151f6d,FFFFFF
+JRAN2045N,STL,45,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=45N,Auteuil,151f6d,FFFFFF
+JRAN2045S,STL,45,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=45S,Montmorency,151f6d,FFFFFF
+JRAN2046N,STL,46,Direction Laval-Ouest,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=46N,Laval-Ouest,151f6d,FFFFFF
+JRAN2046S,STL,46,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=46S,Montmorency,151f6d,FFFFFF
+JRAN2048E,STL,48,Direction Duvernay,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=48E,Duvernay,151f6d,FFFFFF
+JRAN2048O,STL,48,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=48O,Cartier,151f6d,FFFFFF
+JRAN2050E,STL,50,Direction Saint-Vincent-De-Paul,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=50E,St-Vct-Paul,151f6d,FFFFFF
+JRAN2050O,STL,50,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=50O,Carrefour,151f6d,FFFFFF
+JRAN2052E,STL,52,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=52E,St-Francois,151f6d,FFFFFF
+JRAN2052O,STL,52,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=52O,H-Bourassa,151f6d,FFFFFF
+JRAN2055N,STL,55,Direction Laval-Ouest,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=55N,Laval-Ouest,151f6d,FFFFFF
+JRAN2055S,STL,55,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=55S,H-Bourassa,151f6d,FFFFFF
+JRAN2056E,STL,56,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=56E,Montmorency,151f6d,FFFFFF
+JRAN2056O,STL,56,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=56O,SteDorothée,151f6d,FFFFFF
+JRAN2058E,STL,58,Direction Saint-Vincent-De-Paul,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=58E,St-Vct-Paul,151f6d,FFFFFF
+JRAN2058O,STL,58,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=58O,Cartier,151f6d,FFFFFF
+JRAN2060E,STL,60,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=60E,Cartier,151f6d,FFFFFF
+JRAN2060O,STL,60,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=60O,Chomedey,151f6d,FFFFFF
+JRAN2061N,STL,61,Direction Fabreville,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=61N,Fabreville,151f6d,FFFFFF
+JRAN2061S,STL,61,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=61S,Montmorency,151f6d,FFFFFF
+JRAN2063N,STL,63,Direction Gare Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=63N,Ste-Rose,151f6d,FFFFFF
+JRAN2063S,STL,63,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=63S,Cartier,151f6d,FFFFFF
+JRAN2065N,STL,65,Direction Gare Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=65N,Ste-Rose,151f6d,FFFFFF
+JRAN2065S,STL,65,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=65S,Montmorency,151f6d,FFFFFF
+JRAN2066E,STL,66,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=66E,Carrefour,151f6d,FFFFFF
+JRAN2066O,STL,66,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=66O,SteDorothée,151f6d,FFFFFF
+JRAN2070E,STL,70,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=70E,Cartier,151f6d,FFFFFF
+JRAN2070O,STL,70,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=70O,Montmorency,151f6d,FFFFFF
+JRAN2073N,STL,73,Direction Fabreville,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=73N,Fabreville,151f6d,FFFFFF
+JRAN2073S,STL,73,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=73S,Cartier,151f6d,FFFFFF
+JRAN2074E,STL,74,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=74E,St-Francois,151f6d,FFFFFF
+JRAN2074O,STL,74,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=74O,Cartier,151f6d,FFFFFF
+JRAN2076E,STL,76,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=76E,Montmorency,151f6d,FFFFFF
+JRAN2076O,STL,76,Direction Gare Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=76O,SteDorothée,151f6d,FFFFFF
+JRAN20903N,STL,903,Direction Gare Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=903N,SteDorothée,151f6d,FFFFFF
+JRAN20903S,STL,903,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=903S,Montmorency,151f6d,FFFFFF
+NOEL1912E,STL,12,Direction Pont-Viau,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=12E,Pont-Viau,151f6d,FFFFFF
+NOEL1912O,STL,12,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=12O,Cartier,151f6d,FFFFFF
+NOEL19144E,STL,144,Direction Métro Côte-Vertu,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=144E,Cote-Vertu,151f6d,FFFFFF
+NOEL19144O,STL,144,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=144O,SteDorothée,151f6d,FFFFFF
+NOEL19151N,STL,151,Direction Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=151N,Ste-Rose,151f6d,FFFFFF
+NOEL19151S,STL,151,Direction Métro Côte-Vertu,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=151S,Cote-Vertu,151f6d,FFFFFF
+NOEL1917N,STL,17,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=17N,Auteuil,151f6d,FFFFFF
+NOEL1917S,STL,17,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=17S,Cartier,151f6d,FFFFFF
+NOEL1920E,STL,20,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=20E,Cartier,151f6d,FFFFFF
+NOEL1920O,STL,20,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=20O,Chomedey,151f6d,FFFFFF
+NOEL19222E,STL,222,Direction Saint-Vincent-De-Paul,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=222E,St-Vct-Paul,151f6d,FFFFFF
+NOEL19222O,STL,222,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=222O,Cartier,151f6d,FFFFFF
+NOEL1922E,STL,22,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=22E,St-Francois,151f6d,FFFFFF
+NOEL1922O,STL,22,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=22O,Cartier,151f6d,FFFFFF
+NOEL1924E,STL,24,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=24E,Cartier,151f6d,FFFFFF
+NOEL1924O,STL,24,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=24O,SteDorothée,151f6d,FFFFFF
+NOEL1926E,STL,26,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=26E,Montmorency,151f6d,FFFFFF
+NOEL1926O,STL,26,Direction Gare Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=26O,SteDorothée,151f6d,FFFFFF
+NOEL1927N,STL,27,Direction Gare Vimont,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=27N,Gare Vimont,151f6d,FFFFFF
+NOEL1927S,STL,27,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=27S,Cartier,151f6d,FFFFFF
+NOEL1931N,STL,31,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=31N,Auteuil,151f6d,FFFFFF
+NOEL1931S,STL,31,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=31S,H-Bourassa,151f6d,FFFFFF
+NOEL1933N,STL,33,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=33N,Montmorency,151f6d,FFFFFF
+NOEL1933S,STL,33,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=33S,Cartier,151f6d,FFFFFF
+NOEL19360N,STL,360,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=360N,Chomedey,151f6d,FFFFFF
+NOEL1937N,STL,37,Direction Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=37N,Ste-Rose,151f6d,FFFFFF
+NOEL1937S,STL,37,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=37S,Cartier,151f6d,FFFFFF
+NOEL1939N,STL,39,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=39N,Auteuil,151f6d,FFFFFF
+NOEL1939S,STL,39,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=39S,Carrefour,151f6d,FFFFFF
+NOEL1940E,STL,40,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=40E,Montmorency,151f6d,FFFFFF
+NOEL1940O,STL,40,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=40O,Chomedey,151f6d,FFFFFF
+NOEL1942E,STL,42,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=42E,St-Francois,151f6d,FFFFFF
+NOEL1942O,STL,42,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=42O,Carrefour,151f6d,FFFFFF
+NOEL1943N,STL,43,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=43N,Auteuil,151f6d,FFFFFF
+NOEL1943S,STL,43,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=43S,Cartier,151f6d,FFFFFF
+NOEL1945N,STL,45,Direction Auteuil,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=45N,Auteuil,151f6d,FFFFFF
+NOEL1945S,STL,45,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=45S,Montmorency,151f6d,FFFFFF
+NOEL1946N,STL,46,Direction Laval-Ouest,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=46N,Laval-Ouest,151f6d,FFFFFF
+NOEL1946S,STL,46,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=46S,Montmorency,151f6d,FFFFFF
+NOEL1948E,STL,48,Direction Duvernay,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=48E,Duvernay,151f6d,FFFFFF
+NOEL1948O,STL,48,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=48O,Cartier,151f6d,FFFFFF
+NOEL1950E,STL,50,Direction Saint-Vincent-De-Paul,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=50E,St-Vct-Paul,151f6d,FFFFFF
+NOEL1950O,STL,50,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=50O,Carrefour,151f6d,FFFFFF
+NOEL1952E,STL,52,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=52E,St-Francois,151f6d,FFFFFF
+NOEL1952O,STL,52,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=52O,H-Bourassa,151f6d,FFFFFF
+NOEL1955N,STL,55,Direction Laval-Ouest,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=55N,Laval-Ouest,151f6d,FFFFFF
+NOEL1955S,STL,55,Direction Métro Henri-Bourassa,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=55S,H-Bourassa,151f6d,FFFFFF
+NOEL1956E,STL,56,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=56E,Montmorency,151f6d,FFFFFF
+NOEL1956O,STL,56,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=56O,SteDorothée,151f6d,FFFFFF
+NOEL1958E,STL,58,Direction Saint-Vincent-De-Paul,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=58E,St-Vct-Paul,151f6d,FFFFFF
+NOEL1958O,STL,58,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=58O,Cartier,151f6d,FFFFFF
+NOEL1960E,STL,60,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=60E,Cartier,151f6d,FFFFFF
+NOEL1960O,STL,60,Direction Chomedey,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=60O,Chomedey,151f6d,FFFFFF
+NOEL1961N,STL,61,Direction Fabreville,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=61N,Fabreville,151f6d,FFFFFF
+NOEL1961S,STL,61,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=61S,Montmorency,151f6d,FFFFFF
+NOEL1963N,STL,63,Direction Gare Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=63N,Ste-Rose,151f6d,FFFFFF
+NOEL1963S,STL,63,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=63S,Cartier,151f6d,FFFFFF
+NOEL1965N,STL,65,Direction Gare Sainte-Rose,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=65N,Ste-Rose,151f6d,FFFFFF
+NOEL1965S,STL,65,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=65S,Montmorency,151f6d,FFFFFF
+NOEL1966E,STL,66,Direction Terminus Le Carrefour,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=66E,Carrefour,151f6d,FFFFFF
+NOEL1966O,STL,66,Direction Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=66O,SteDorothée,151f6d,FFFFFF
+NOEL1970E,STL,70,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=70E,Cartier,151f6d,FFFFFF
+NOEL1970O,STL,70,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=70O,Montmorency,151f6d,FFFFFF
+NOEL1973N,STL,73,Direction Fabreville,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=73N,Fabreville,151f6d,FFFFFF
+NOEL1973S,STL,73,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=73S,Cartier,151f6d,FFFFFF
+NOEL1974E,STL,74,Direction Saint-François,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=74E,St-Francois,151f6d,FFFFFF
+NOEL1974O,STL,74,Direction Métro Cartier,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=74O,Cartier,151f6d,FFFFFF
+NOEL1976E,STL,76,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=76E,Montmorency,151f6d,FFFFFF
+NOEL1976O,STL,76,Direction Gare Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=76O,SteDorothée,151f6d,FFFFFF
+NOEL19903N,STL,903,Direction Gare Sainte-Dorothée,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=903N,SteDorothée,151f6d,FFFFFF
+NOEL19903S,STL,903,Direction Métro Montmorency,3,http://www.stl.laval.qc.ca/lang/fr/horaires-et-trajets/?page_id=2361&route_id=903S,Montmorency,151f6d,FFFFFF

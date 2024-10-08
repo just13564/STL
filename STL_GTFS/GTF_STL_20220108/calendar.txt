@@ -1,0 +1,4 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+JANV22DIM,0,0,0,0,0,0,1,20220108,20220325
+JANV22SAM,0,0,0,0,0,1,0,20220108,20220325
+JANV22SEM,1,1,1,1,1,0,0,20220108,20220325

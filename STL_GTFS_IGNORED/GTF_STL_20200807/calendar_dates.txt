@@ -1,0 +1,5 @@
+service_id,date,exception_type
+SAM,20200413,1
+SAM,20200518,1
+DIM,20200624,1
+SAM,20200701,1

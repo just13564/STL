@@ -1,0 +1,4 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+AOUT23DIM,0,0,0,0,0,0,1,20230826,20231027
+AOUT23SAM,0,0,0,0,0,1,0,20230826,20231027
+AOUT23SEM,1,1,1,1,1,0,0,20230826,20231027

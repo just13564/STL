@@ -1,0 +1,3 @@
+﻿service_id,date,exception_type
+JUIN23DIM,20230624,1
+JUIN23SAM,20230624,2

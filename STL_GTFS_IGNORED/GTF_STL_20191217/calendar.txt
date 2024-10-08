@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+AOUT19DIM,0,0,0,0,0,0,1,20190824,20200103
+AOUT19SAM,0,0,0,0,0,1,0,20190824,20200103
+AOUT19SEM,1,1,1,1,1,0,0,20190824,20200103

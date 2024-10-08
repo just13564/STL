@@ -1,0 +1,3 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+MARS20SAM,1,1,1,1,1,1,1,20200328,20200619
+MARS20SEM,1,1,1,1,1,0,0,20200323,20200327
